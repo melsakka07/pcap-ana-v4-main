@@ -1,0 +1,164 @@
+SIP Analysis Summary
+==================================================
+Analysis Date: 2024-11-23 00:51:39
+Input File: VoWifi Issue.pcap
+Total SIP Packets: 98
+REGISTER Messages: 11
+INVITE Messages: 6
+==================================================
+
+Detailed SIP Message Information:
+==================================================
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:25:20.810717
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=56cc29a9c5c5
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 56cc29a9c5c5
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:25:20.865721
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=56cc29a9c5c5
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 56cc29a9c5c5
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:27:26.772096
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:27:27.057334
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:27:27.151135
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:27:56.162648
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:27:56.226530
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:28:22.674151
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:28:22.722457
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:28:23.073723
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-22 10:28:23.181693
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-22 10:28:48.433678
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-22 10:28:48.436575
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-22 10:28:48.817497
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-22 10:28:48.872647
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-22 10:28:50.477628
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-22 10:28:50.480312
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------

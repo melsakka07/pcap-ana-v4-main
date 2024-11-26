@@ -1,0 +1,20 @@
+SIP Analysis Summary
+==================================================
+Analysis Date: 2024-11-23 00:51:12
+Input File: 971582670395_971582670893_21Nov24_1337h_1.pcap
+Total SIP Packets: 2
+REGISTER Messages: 1
+INVITE Messages: 0
+==================================================
+
+Detailed SIP Message Information:
+==================================================
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 13:37:03.889969
+To: <sip:+971582670893@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=9c5c8ebb4250
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 9c5c8ebb4250
+--------------------------------------------------

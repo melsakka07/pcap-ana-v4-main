@@ -1,0 +1,2854 @@
+SIP Analysis Summary
+==================================================
+Analysis Date: 2024-11-23 00:51:38
+Input File: calls.pcap
+Total SIP Packets: 2522
+REGISTER Messages: 18
+INVITE Messages: 320
+==================================================
+
+Detailed SIP Message Information:
+==================================================
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:27:36.354480
+To: <tel:+971529910763>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:27:36.414252
+To: <tel:+971529910763>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:38:04.270428
+To: <tel:+971529910511>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:38.644927
+To: <tel:+971550956286>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:41.470651
+To: <tel:+971529910511>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:41.533791
+To: <tel:+971529910511>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:43.887469
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:43.887469
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:43.887603
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:43.887603
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:44.411643
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:44.411643
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:44.411658
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:44.411658
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:45.511661
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:45.511661
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:45.511677
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:45.511677
+To: <sip:+971550956520@auhatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:14:17.265086
+To: <sip:529910511@dxbatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:14:17.265086
+To: <sip:529910511@dxbatcamss.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:15:24.020767
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 09:56:50.955223
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 09:56:51.091075
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 09:57:19.167251
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 09:57:19.324559
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-3.ims.du.ae5060+1+a6ae0005+1a1f3b1d
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-3.ims.du.ae5060+1+a6ae0005+1a1f3b1d
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 09:56:20.325721
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 09:56:20.327936
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:14:18.800252
+To: <sip:+971555678171@dxbatcamss.du.com.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:14:18.800252
+To: <sip:+971555678171@dxbatcamss.du.com.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:23:52.570001
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:15:24.265522
+To: <sip:+971555678171@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:15:24.265522
+To: <sip:+971555678171@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:02:55.923790
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:04:47.974453
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:05:58.748354
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:05:58.750716
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:07:49.637732
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:07:49.715466
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:23:55.807993
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:23:55.810742
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:41.277557
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:53.940361
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:25:05.080699
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:41.476555
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:41.516301
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:53.944308
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:01:13.987985
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:01:14.147945
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-4.ims.du.ae5060+1+68d20004+f6a9dd0c
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-4.ims.du.ae5060+1+68d20004+f6a9dd0c
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:03:24.103022
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:03:24.240028
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-4.ims.du.ae5060+1+68b60001+b7eeba20
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-4.ims.du.ae5060+1+68b60001+b7eeba20
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:21:36.953404
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:50:39.066614
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:04:13.714864
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:04:13.717494
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:06:00.307223
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:14:10.751639
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:21:38.440972
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:21:38.515642
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:17:38.758442
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:38:04.328296
+To: <tel:+971529910511>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:50:39.071120
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:52:29.999134
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:52:30.002681
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.050935
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.054905
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.354498
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.357657
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.108232
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.111210
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.245708
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.248080
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=sfV2YsazwMrFGl.B
+To Header Parameters:
+  user: phone>
+  tag: sfV2YsazwMrFGl.B
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:27.160543
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:38:04.332026
+To: <tel:+971529910511>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:44:07.709405
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:44:07.712505
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:26:43.625922
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:15:52.189785
+To: <sip:msml@vmrfuaq1.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:15:52.342986
+To: <sip:msml@vmrfuaq1.ims.du.ae>;tag=mrfvmuaq1-MRFP-3.localdomain5060+1+f7a70004+216e930e
+To Header Parameters:
+  tag: mrfvmuaq1-MRFP-3.localdomain5060+1+f7a70004+216e930e
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:17:39.010809
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:14:53.067140
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:36:11.411847
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:36:11.477416
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:36:13.299338
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:54.239466
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:22:25.562758
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:23:52.565860
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:27.393358
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:26:43.828300
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:26:43.942311
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:34:00.821173
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:41:38.745681
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:41:38.748319
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:43:51.774592
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:43:51.777192
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:43:53.566410
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:43:53.624808
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:43:55.405780
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:43:55.408384
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:20:43.823573
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:04:15.171279
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:04:15.249735
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:52:30.297671
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.057391
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.359345
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.114672
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.250142
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee6be11e3b197-mw-pt-lucentPCSF-011004
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:43.922486
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:59.769879
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:00.132435
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.147702
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.287593
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7f73725a2c5-mw-pt-lucentPCSF-024064
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:50:39.276298
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:50:39.339537
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:03.977206
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:17.617205
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:17.982696
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:29.844397
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:29.978072
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+To Header Parameters:
+  user: phone>
+  tag: 6599a085-673ee7573a6dbb8e-mw-pt-lucentPCSF-099635
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:44:11.372678
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:44:11.375320
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:04.529900
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:04.531326
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:04.534443
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.349776
+To: <tel:+971529910511>;tag=lD5FvU.Z0wCJ460n
+To Header Parameters:
+  tag: lD5FvU.Z0wCJ460n
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.352063
+To: <tel:+971529910511>;tag=lD5FvU.Z0wCJ460n
+To Header Parameters:
+  tag: lD5FvU.Z0wCJ460n
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.708271
+To: <sip:+971529910763@ims.du.ae>;tag=6720f632-673ed9841f947313-mw-po-lucentPCSF-111665
+To Header Parameters:
+  tag: 6720f632-673ed9841f947313-mw-po-lucentPCSF-111665
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.709829
+To: <sip:+971529910763@ims.du.ae>;tag=6720f632-673ed9841f947313-mw-po-lucentPCSF-111665
+To Header Parameters:
+  tag: 6720f632-673ed9841f947313-mw-po-lucentPCSF-111665
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.753452
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:46:01.695111
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:46:01.698639
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:51:53.050352
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:51:53.106042
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:43.672057
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:43.675409
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:43.945792
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:43.949204
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:04.718495
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:04.721720
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:04.851678
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:04.855175
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=jUZ79PvYyMMQCOAC
+To Header Parameters:
+  user: phone>
+  tag: jUZ79PvYyMMQCOAC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:44.051411
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:46.329252
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:46.411649
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:02.435140
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:02.438678
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:02.700218
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:02.704197
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:05.122119
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:05.125371
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:05.222353
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:05.229614
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=ZojZYCroZSY5QHxl
+To Header Parameters:
+  user: phone>
+  tag: ZojZYCroZSY5QHxl
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:06.225387
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:06.329753
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.353927
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.358102
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.649192
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.652824
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:53.638636
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:53.641811
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:53.747631
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:53.751266
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=FcQL1PIqIke3OjmG
+To Header Parameters:
+  user: phone>
+  tag: FcQL1PIqIke3OjmG
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:51.811922
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:42.934987
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:42.999347
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-6.ims.du.ae5060+1+ad100002+dea6eb6e
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-6.ims.du.ae5060+1+ad100002+dea6eb6e
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:20:43.527444
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:43.666865
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:43.670795
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:59.765249
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:59.767501
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:00.117777
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:00.130186
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.142666
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.145333
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.280760
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.283424
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:17:39.081259
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:17:40.971808
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:17:40.974295
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:19:41.521707
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:32.916331
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:32.919313
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:14:52.690079
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:14:10.825396
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:14:11.127550
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:06:02.057540
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:06:02.059978
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:22:49.417904
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:03.640829
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:30.008951
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:30.011701
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:31.442660
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:31.499365
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:44:09.532752
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:14:11.236855
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:17:14.704505
+To: <sip:+971529910763@ims.du.ae>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:53:02.803504
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:33.885285
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:51.438629
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=P_kKcOMLIduoezka
+To Header Parameters:
+  user: phone>
+  tag: P_kKcOMLIduoezka
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:51.700012
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=P_kKcOMLIduoezka
+To Header Parameters:
+  user: phone>
+  tag: P_kKcOMLIduoezka
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:54.059527
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=P_kKcOMLIduoezka
+To Header Parameters:
+  user: phone>
+  tag: P_kKcOMLIduoezka
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:54.063081
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=P_kKcOMLIduoezka
+To Header Parameters:
+  user: phone>
+  tag: P_kKcOMLIduoezka
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:54.174157
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=P_kKcOMLIduoezka
+To Header Parameters:
+  user: phone>
+  tag: P_kKcOMLIduoezka
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:02.481995
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:02.484560
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:23.371807
+To: <tel:+971529910511>;tag=hOfwg7p2BcKD3uhp
+To Header Parameters:
+  tag: hOfwg7p2BcKD3uhp
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:23.373683
+To: <tel:+971529910511>;tag=hOfwg7p2BcKD3uhp
+To Header Parameters:
+  tag: hOfwg7p2BcKD3uhp
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:24.287378
+To: <sip:+971529910763@ims.du.ae>;tag=6720f632-673eda361ca313ce-mw-po-lucentPCSF-140585
+To Header Parameters:
+  tag: 6720f632-673eda361ca313ce-mw-po-lucentPCSF-140585
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:17:14.622718
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:25:05.369473
+To: <sip:+971529910763@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:25:07.123358
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:25:07.125924
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:23.936582
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:23.939302
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:40.040156
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=UeQufpVBR6G.YCZo
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: UeQufpVBR6G.YCZo
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:40.042049
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=UeQufpVBR6G.YCZo
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: UeQufpVBR6G.YCZo
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:40.392517
+To: <sip:+971529910763@ims.du.ae>;tag=6720f632-673eda4b37bccdf8-mw-po-lucentPCSF-135256
+To Header Parameters:
+  tag: 6720f632-673eda4b37bccdf8-mw-po-lucentPCSF-135256
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:40.440461
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:42.207703
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:43.948336
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:43.993404
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-6.ims.du.ae5060+1+71b40002+33732f03
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-6.ims.du.ae5060+1+71b40002+33732f03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:22:25.227361
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:23:52.212846
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:13:41.537903
+To: <tel:+971529910511>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:14:17.246523
+To: <sip:529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:01.687815
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:01.690572
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:17.606053
+To: <tel:+971529910511>;tag=i7GXPVDScRl86p1s
+To Header Parameters:
+  tag: i7GXPVDScRl86p1s
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:17.608188
+To: <tel:+971529910511>;tag=i7GXPVDScRl86p1s
+To Header Parameters:
+  tag: i7GXPVDScRl86p1s
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:18.053281
+To: <sip:+971529910763@ims.du.ae>;tag=6720f631-673ee75528bbbcb3-mw-po-lucentPCSF-046157
+To Header Parameters:
+  tag: 6720f631-673ee75528bbbcb3-mw-po-lucentPCSF-046157
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:18.054844
+To: <sip:+971529910763@ims.du.ae>;tag=6720f631-673ee75528bbbcb3-mw-po-lucentPCSF-046157
+To Header Parameters:
+  tag: 6720f631-673ee75528bbbcb3-mw-po-lucentPCSF-046157
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:03.583376
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:17.610019
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=hd9wpQdyLbi0o8sV
+To Header Parameters:
+  user: phone>
+  tag: hd9wpQdyLbi0o8sV
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:17.919009
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=hd9wpQdyLbi0o8sV
+To Header Parameters:
+  user: phone>
+  tag: hd9wpQdyLbi0o8sV
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:17.970709
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=hd9wpQdyLbi0o8sV
+To Header Parameters:
+  user: phone>
+  tag: hd9wpQdyLbi0o8sV
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:29.837116
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=hd9wpQdyLbi0o8sV
+To Header Parameters:
+  user: phone>
+  tag: hd9wpQdyLbi0o8sV
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:29.968658
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=hd9wpQdyLbi0o8sV
+To Header Parameters:
+  user: phone>
+  tag: hd9wpQdyLbi0o8sV
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:18.095650
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:29.639455
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:43.606291
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:59.760928
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:00.112203
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.140402
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.278268
+To: <sip:+971529910511@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=BgL8r4erfNc0.FLP
+To Header Parameters:
+  user: phone>
+  tag: BgL8r4erfNc0.FLP
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.544064
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.231720
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.274739
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-4.ims.du.ae5060+1+6cc80005+4f48a2f4
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-4.ims.du.ae5060+1+6cc80005+4f48a2f4
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.774099
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.818739
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-4.ims.du.ae5060+1+81b80005+e8ada0a4
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-4.ims.du.ae5060+1+81b80005+e8ada0a4
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.194371
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.237727
+To: <sip:msml@vmrfdxb2.ims.du.ae>;tag=mrfvmdxb2-MRFP-4.ims.du.ae5060+1+8f600004+b06f4d2b
+To Header Parameters:
+  tag: mrfvmdxb2-MRFP-4.ims.du.ae5060+1+8f600004+b06f4d2b
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.522388
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.531416
+To: <sip:1234@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.533927
+To: <sip:1234@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:18:43.355975
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:46:05.318277
+To: <sip:+971529910763@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:51:51.023518
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:43.668344
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=Tx88Icsll0Rv7HYL
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: Tx88Icsll0Rv7HYL
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:43.670137
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=Tx88Icsll0Rv7HYL
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: Tx88Icsll0Rv7HYL
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:52:44.003198
+To: <sip:+971529910763@ims.du.ae>;tag=6720f632-673ed88715013d3-mw-po-lucentPCSF-136401
+To Header Parameters:
+  tag: 6720f632-673ed88715013d3-mw-po-lucentPCSF-136401
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:31.654307
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6720f674-673ed988120e9014-mw-pt-lucentPCSF-098019
+To Header Parameters:
+  user: phone>
+  tag: 6720f674-673ed988120e9014-mw-pt-lucentPCSF-098019
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:53.643301
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6720f674-673ed988120e9014-mw-pt-lucentPCSF-098019
+To Header Parameters:
+  user: phone>
+  tag: 6720f674-673ed988120e9014-mw-pt-lucentPCSF-098019
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:53.753454
+To: <sip:+971529910511@ims.du.ae;user=phone>;tag=6720f674-673ed988120e9014-mw-pt-lucentPCSF-098019
+To Header Parameters:
+  user: phone>
+  tag: 6720f674-673ed988120e9014-mw-pt-lucentPCSF-098019
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:51.806999
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:56:51.851780
+To: <sip:1234@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:40.475785
+To: <sip:1234@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:59:40.478377
+To: <sip:1234@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.601528
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:11.793375
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=Yw5cE1_jtev2D7L8
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: Yw5cE1_jtev2D7L8
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:12.129677
+To: <sip:+971529910763@ims.du.ae>;tag=6720f631-673ee6dc23c6e309-mw-po-lucentPCSF-035824
+To Header Parameters:
+  tag: 6720f631-673ee6dc23c6e309-mw-po-lucentPCSF-035824
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:00.249350
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:00.415517
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.143350
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=FVpkUARBoRSRDc1n
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: FVpkUARBoRSRDc1n
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.475501
+To: <sip:+971529910763@ims.du.ae>;tag=6720f631-673ee80818b1a66c-mw-po-lucentPCSF-027664
+To Header Parameters:
+  tag: 6720f631-673ee80818b1a66c-mw-po-lucentPCSF-027664
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:31:51.825619
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:31:51.900760
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:31:52.220816
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:32:11.255100
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=424030263114E002
+P-Access-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 424030263114E002
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:02.551195
+To: <sip:+971529909974@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:02.554548
+To: <sip:+971529909974@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.152888
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.154327
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.415012
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.416779
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.667770
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.669394
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.827579
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.829536
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee80a210d6783-mw-pt-lucentPCSF-048489
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:33:22.461887
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:20.626397
+To: <sip:+971529909974@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:27.677468
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:27.966965
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:30.306033
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:30.429955
+To: <sip:+971529909974@ims.du.ae;user=phone>;tag=6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+To Header Parameters:
+  user: phone>
+  tag: 6720f631-673ee76825777589-mw-pt-lucentPCSF-032605
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.498686
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:00.493024
+To: <sip:msml@vmrfdxb2.ims.du.ae>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:02.009200
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:02.074407
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:11.797026
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:11.800564
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:12.069934
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:12.074332
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.599369
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.602634
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.688939
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:53:14.691591
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=tXRXQ0t2kHKvqvp6
+To Header Parameters:
+  user: phone>
+  tag: tXRXQ0t2kHKvqvp6
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:18.218334
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:27.668065
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=J0rnH6inwPfmw81K
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: J0rnH6inwPfmw81K
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:27.670407
+To: <tel:0529909974;phone-context=ims.mnc003.mcc424.3gppnetwork.org>;tag=J0rnH6inwPfmw81K
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+  tag: J0rnH6inwPfmw81K
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:28.029315
+To: <sip:+971529910763@ims.du.ae>;tag=6720f631-673ee766cf13ca6-mw-po-lucentPCSF-036869
+To Header Parameters:
+  tag: 6720f631-673ee766cf13ca6-mw-po-lucentPCSF-036869
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:55:28.141618
+To: <sip:1234@ims.du.ae>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:41.969636
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:41.971917
+To: <tel:+971529910511>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:59.756954
+To: <tel:+971529910511>;tag=XBtUgNTzkUWRx52Y
+To Header Parameters:
+  tag: XBtUgNTzkUWRx52Y
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:57:59.758808
+To: <tel:+971529910511>;tag=XBtUgNTzkUWRx52Y
+To Header Parameters:
+  tag: XBtUgNTzkUWRx52Y
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:00.201094
+To: <sip:+971529910763@ims.du.ae>;tag=6720f631-673ee7f539b8c2e3-mw-po-lucentPCSF-040858
+To Header Parameters:
+  tag: 6720f631-673ee7f539b8c2e3-mw-po-lucentPCSF-040858
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:33:22.520719
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:33:22.863273
+To: <sip:424030270292485@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:38:08.174974
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:38:08.490450
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:22:45.633673
+To: <tel:0529910763;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:33:57.297770
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:36:09.526219
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4df9
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4df9
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 10:38:08.103076
+To: <sip:424030270292487@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:00:08.416127
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:00:08.418685
+To: <tel:0529910511;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=72a6e6da2c03
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 72a6e6da2c03
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:00:12.013380
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 10:02:25.219229
+To: <sip:+971529910511@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:02.163911
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:02.227370
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.147154
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=302303dc4dfa
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 302303dc4dfa
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.150634
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.409802
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:09.413803
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.662932
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.665990
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.822062
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 11:58:11.825465
+To: <sip:+971529909974@ims.mnc003.mcc424.3gppnetwork.org;user=phone>;tag=MEPeN6wK1TiumkcC
+To Header Parameters:
+  user: phone>
+  tag: MEPeN6wK1TiumkcC
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-21 11:13:43.570483
+To: <sip:+971529910511@ims.du.ae>
+--------------------------------------------------

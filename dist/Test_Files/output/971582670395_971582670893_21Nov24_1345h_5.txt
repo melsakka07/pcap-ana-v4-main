@@ -1,0 +1,11 @@
+SIP Analysis Summary
+==================================================
+Analysis Date: 2024-11-23 00:51:17
+Input File: 971582670395_971582670893_21Nov24_1345h_5.pcap
+Total SIP Packets: 0
+REGISTER Messages: 0
+INVITE Messages: 0
+==================================================
+
+Detailed SIP Message Information:
+==================================================

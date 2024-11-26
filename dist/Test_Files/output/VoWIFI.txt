@@ -1,0 +1,98 @@
+SIP Analysis Summary
+==================================================
+Analysis Date: 2024-11-23 00:51:41
+Input File: VoWIFI.pcap
+Total SIP Packets: 60
+REGISTER Messages: 0
+INVITE Messages: 6
+==================================================
+
+Detailed SIP Message Information:
+==================================================
+
+Message Type: INVITE
+Timestamp: 2024-11-21 13:43:19.626359
+To: <sip:+971582670893@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=9C5C8EBB4250;country=AE
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 9C5C8EBB4250
+  country: AE
+Cellular-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C;cell-info-age=597
+Cellular-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 4240301FB029070C
+  cell-info-age: 597
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 13:43:19.628747
+To: <sip:+971582670893@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=9C5C8EBB4250;country=AE
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 9C5C8EBB4250
+  country: AE
+Cellular-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C;cell-info-age=597
+Cellular-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 4240301FB029070C
+  cell-info-age: 597
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 13:43:20.307898
+To: <sip:+971582670893@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=9C5C8EBB4250;country=AE
+P-Access-Network-Info Parameters:
+  IEEE-802.11n
+  i-wlan-node-id: 9C5C8EBB4250
+  country: AE
+Cellular-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C;cell-info-age=597
+Cellular-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 4240301FB029070C
+  cell-info-age: 597
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 13:43:20.409400
+To: <sip:+971582670893@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Cellular-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C;cell-info-age=597
+Cellular-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 4240301FB029070C
+  cell-info-age: 597
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 13:43:22.512126
+To: <sip:+971582670893@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Cellular-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C;cell-info-age=597
+Cellular-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 4240301FB029070C
+  cell-info-age: 597
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-21 13:43:22.515134
+To: <sip:+971582670893@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Cellular-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C;cell-info-age=597
+Cellular-Network-Info Parameters:
+  3GPP-E-UTRAN-FDD
+  utran-cell-id-3gpp: 4240301FB029070C
+  cell-info-age: 597
+--------------------------------------------------
