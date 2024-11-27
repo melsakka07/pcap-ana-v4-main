@@ -1,6 +1,6 @@
 SIP Analysis Summary
 ==================================================
-Analysis Date: 2024-11-27 14:00:31
+Analysis Date: 2024-11-27 15:30:27
 Input File: 971529925654_27112024_1030h_1125h.pcap
 Total SIP Packets: 433
 REGISTER Messages: 63

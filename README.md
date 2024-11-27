@@ -1,167 +1,131 @@
-# 📞 SIP Packet Analyzer
+# 📞 SIP Packet Analyzer v2.0
 
-A Python script for analyzing SIP (Session Initiation Protocol) packets from PCAP files. This tool extracts and formats key information from SIP messages, making it easier to analyze VoIP communications. 🔍
+A Python-based GUI application for analyzing SIP (Session Initiation Protocol) packets from PCAP files. This tool provides a user-friendly interface to extract and analyze VoIP communications data. 🔍
 
-## ✨ Features
+## ✨ Key Features
 
-- 📊 Analyzes PCAP files containing SIP traffic
-- 📑 Extracts and parses key SIP headers:
-  - To header
-  - From header
-  - Route header
+### Analysis Capabilities
+- 📊 Processes PCAP files containing SIP traffic
+- 🔍 Extracts critical SIP headers:
+  - To/From headers
+  - Route information
   - P-Access-Network-Info
   - Cellular-Network-Info
-- 🔍 Provides detailed parameter breakdowns for each header
-- 📈 Generates summary statistics including:
-  - Total SIP packets
-  - Number of REGISTER messages
-  - Number of INVITE messages
-- 🖥️ GUI-based directory selection
-- ⏳ Progress bars for tracking analysis
-- 📄 Outputs formatted text files with analysis results
+- 📈 Generates comprehensive statistics
 
-## 🛠️ Requirements
+### User Interface
+- 🖥️ Modern, centered GUI design
+- 🎯 Easy directory selection
+- 📊 Real-time progress tracking
+- 💻 Live console output
+- ⚡ Responsive feedback
 
+### Output Features
+- 📑 Detailed analysis reports
+- 📊 Statistical summaries
+- 📋 Formatted text output
+- 🔄 Automatic file organization
+
+## 🛠️ System Requirements
+
+### Essential Software
 - 🐍 Python 3.x
-- 📦 pyshark
-- 📊 tqdm
-- 🪟 tkinter (usually comes with Python)
-- 🦈 Wireshark/TShark (must be installed on system)
+- 🦈 Wireshark/TShark (latest version)
+- 📦 Required Python packages:
+  - pyshark
+  - tqdm
+  - tkinter (included with Python)
 
-## 💻 Installation
+### Hardware Recommendations
+- 💾 Minimum 4GB RAM
+- 💽 Sufficient disk space for PCAP files
+- 🖥️ 1080p display or higher (for optimal GUI experience)
 
-1. Ensure you have Python 3.x installed
-2. Install Wireshark/TShark on your system
-3. Install required Python packages:
-  ```bash
-  pip install -r requirements.txt
-  ```
+## 💻 Quick Start Guide
 
-## 👨‍💻 Development Setup
-
-1. Clone the repository:
+1. **Installation**
    ```bash
+   # Clone repository
    git clone [repository-url]
    cd sip-analyzer
-   ```
 
-2. Create and activate a virtual environment:
-   ```bash
+   # Set up virtual environment
    python -m venv .venv
    .\.venv\Scripts\activate  # Windows
    source .venv/bin/activate # Linux/Mac
-   ```
 
-3. Install dependencies:
-   ```bash
+   # Install dependencies
    pip install -r requirements.txt
    ```
 
-4. Run the script directly:
+2. **Running the Application**
    ```bash
    python sip-script.py
    ```
 
-## 📦 Packaging as Executable
-
-1. Ensure you have all requirements installed:
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-2. Place your icon file (optional):
-   - Add a PNG file named `android-chrome-120x120.png`
-   - It will be automatically converted to ICO format
-
-3. Build the executable:
-   ```bash
-   # Using virtual environment
-   .\.venv\Scripts\pyinstaller.exe build_exe.spec
-   
-   # Or using Python module
-   python -m PyInstaller build_exe.spec
-   ```
-
-4. Find the executable in the `dist` folder:
-   - `dist/SIP-Analyzer.exe`
-
-## 📝 Distribution Package
-
-Create a distribution package by:
-1. Creating a new folder named `SIP-Analyzer-Package`
-2. Copying `dist/SIP-Analyzer.exe` into it
-3. Including the README.txt file
-4. (Optional) Adding sample PCAP files
-
-## 🚀 End-User Usage
-
-1. Install Prerequisites:
-   - Install Wireshark/TShark on your system
-   - Ensure it's added to system PATH
-
-2. Run the Application:
-   - Double-click `SIP-Analyzer.exe`
-   - Select folder containing PCAP files when prompted
+3. **Using the Interface**
+   - Select input folder containing PCAP files
    - Choose output directory for analysis
-   - Wait for processing to complete
-   - Check output directory for results
+   - Click "Start Analysis"
+   - Monitor progress in real-time
+   - View results in the specified output folder
 
-## 📋 Output Format
+## 📊 Analysis Output
 
-The analyzer generates text files containing:
-- 📊 Analysis summary with timestamp
-- 📈 Total packet counts
-- 📝 REGISTER and INVITE message counts
-- 🔍 Detailed message information including:
-  - Message type
-  - Timestamp
-  - To/From headers
-  - Network information
-  - Cell IDs
+### Summary Report
+- Analysis timestamp
+- File information
+- Message counts:
+  - Total SIP packets
+  - REGISTER messages
+  - INVITE messages
+- Header statistics
 
-## ⚠️ Error Handling
+### Detailed Analysis
+- Message-by-message breakdown
+- Header parameters
+- Network information
+- Timing data
 
-The script includes error handling for:
-- Missing traces directory
-- No PCAP files found
-- TShark crashes
-- Missing packet attributes
-- General exceptions
+## ⚠️ Troubleshooting
 
-## 📡 Supported SIP Headers
+Common Issues:
+- 🚫 "TShark not found": Ensure Wireshark is installed and in PATH
+- 📁 "No PCAP files": Check input directory
+- 💾 "Memory error": Process smaller batches
+- ⏱️ "Slow processing": Normal for large files
 
-The script extracts and parses:
-- Message Type (REGISTER/INVITE)
-- Timestamp
-- To Header
-- From Header
-- P-Access-Network-Info with parameters
-- Cellular-Network-Info with parameters
+## 🔧 Advanced Configuration
 
-## 📚 Additional Resources
+### Performance Tuning
+- Adjust batch processing size
+- Modify console output frequency
+- Configure memory management
 
-- 📖 [SIP Protocol RFC 3261](https://tools.ietf.org/html/rfc3261)
-- 🦈 [Wireshark Documentation](https://www.wireshark.org/docs/)
-- 🐍 [pyshark Documentation](https://kiminewt.github.io/pyshark/)
+### Custom Analysis
+- Edit header extraction
+- Modify output format
+- Add custom filters
 
-## ⚠️ Known Issues
+## 📚 Resources
 
-- 🐌 Large PCAP files may require significant processing time
-- 💾 Memory usage increases with file size
-- ⚙️ TShark must be installed and accessible in system PATH
+- [SIP Protocol RFC 3261](https://tools.ietf.org/html/rfc3261)
+- [Wireshark Docs](https://www.wireshark.org/docs/)
+- [pyshark Documentation](https://kiminewt.github.io/pyshark/)
 
 ## 📄 License
 
-MIT License
+MIT License - See LICENSE file for details
 
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a new branch for your feature
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
+## 👥 Support
 
 Created with ❤️ by M. ElSakka
 
-📧 For support, contact: support@astravision.ai
+For support:
+- 📧 Email: support@astravision.ai
+- 💬 Issues: GitHub issue tracker
+- 📱 Twitter: @AstraVision_AI
+
+---
+
+**Note**: This tool is optimized for enterprise-level SIP analysis. For basic packet analysis, simpler tools may be more appropriate.
