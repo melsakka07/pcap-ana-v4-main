@@ -139,7 +139,11 @@ def extract_sip_info(file_path, output_file):
                                 # Extract Route header
                                 if hasattr(sip_headers, 'route'):
                                     route_header = sip_headers.route
-                                    file.write(f"Route: {route_header}\n")
+                                    file.write(f"Rou
+                                    
+                                    
+                                               
+                                               te: {route_header}\n")
 
                                     '''
                                     if ';' in route_header:

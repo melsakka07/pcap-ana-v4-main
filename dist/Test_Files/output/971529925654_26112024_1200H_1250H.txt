@@ -1,0 +1,713 @@
+SIP Analysis Summary
+==================================================
+Analysis Date: 2024-11-27 14:00:11
+Input File: 971529925654_26112024_1200H_1250H.pcap
+Total SIP Packets: 642
+REGISTER Messages: 58
+INVITE Messages: 39
+
+Header Availability:
+P-Access-Network-Info in REGISTER: 58
+P-Access-Network-Info in INVITE: 16
+Cellular-Network-Info in REGISTER: 0
+Cellular-Network-Info in INVITE: 0
+==================================================
+
+Detailed SIP Message Information:
+==================================================
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:13:42.010271
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:13:42.062711
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:15:04.970457
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:15:05.027041
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:15:19.362414
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:15:19.443765
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:15:59.600712
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:15:59.681915
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:16:10.959097
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:16:11.021633
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:16:11.360244
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:16:11.459364
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:16:45.839269
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:16:45.840022
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:17:16.220105
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:17:16.303746
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:18:15.834902
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:18:15.892145
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:18:38.734091
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:18:38.795359
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:18:53.975231
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:18:54.086097
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:15.879493
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:originating@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5090;reg-id=FP91732609134081537;lskpmc=SFP9;lr;ms_rest_id=SFP6745845e>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:15.881739
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr;mode=originating>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:16.257784
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=SFP9;bcos=ce8636c1771f3e54be9fcf2b38f043f0>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:16.263875
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:dxbatcamss.du.com.ae:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:16.608211
+To: <tel:+971526359581>
+Route: <sip:icscfdxb2.3.ims.du.ae:5080;transport=UDP;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:16.608211
+To: <tel:+971526359581>
+Route: <sip:icscfdxb2.3.ims.du.ae:5080;transport=UDP;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:16.609886
+To: <tel:+971526359581>
+Route: <sip:icscfdxb2.3.ims.du.ae:5080;transport=UDP;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:16.665468
+To: <tel:+971526359581>
+Route: <sip:scscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5090;lskpmc=svc2;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:16.669586
+To: <tel:+971526359581>
+Route: <sip:mtasauh01.ims.mnc003.mcc424.3gppnetwork.org:5070;TADSType=c-tads;InvokedRoles=MMTEL-AS_SCC_AS;lr;mode=terminating>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:17.070868
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=SVC2;bcos=6c096007f84cada2107650e3c215e0c7>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:17.075041
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:atcf@pcscfauh1-cfed.ims.mnc003.mcc424.3gppnetwork.org;x-fbi=prim-5;lr;x-alu-atcf>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:23.278390
+To: <tel:+971550913911>
+Route: <sip:isc@scscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=SVC2;bcos=6c096007f84cada2107650e3c215e0c7>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:23.287097
+To: <tel:+971550913911>
+Route: <sip:pcscfauh1-cfed.ims.mnc003.mcc424.3gppnetwork.org:5061;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:19:23.306121
+To: <sip:+971550913911@dxbatcamss2.du.com.ae:5060;transport=udp;user=phone>
+To Header Parameters:
+  transport: udp
+  user: phone>
+Route: <sip:dxbatcamss2.du.com.ae:5060;transport=udp;lr>
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:20:17.919849
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:20:17.984175
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:20:39.494595
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:20:39.574441
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:20:46.475567
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:20:46.600598
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:23:49.676062
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:23:49.734375
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:23:57.949437
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:23:58.033978
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:23:58.476313
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:23:58.558649
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:23.603405
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:23.670683
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:23.968348
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:24.137769
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:36.996181
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:37.054523
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:42.611075
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:42.681953
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfuaq1.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:42.974383
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfuaq1.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:24:43.077150
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasuaq01.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:36:21.965752
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfuaq1.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:37:13.738033
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:37:13.806983
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfuaq1.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:37:14.124304
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfuaq1.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:37:14.350434
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasuaq01.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: 3GPP-E-UTRAN-FDD;utran-cell-id-3gpp=4240301FB029070C
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:39:15.159152
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfuaq1.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:40:07.959949
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:40:08.026756
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:40:55.988685
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:40:56.100675
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:17.540793
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:originating@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5090;reg-id=QZD1732610456095879;lskpmc=SQZD;lr;ms_rest_id=SQZ67458968>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:17.544211
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr;mode=originating>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:17.911623
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=SQZD;bcos=63c89c30ef57ef57b65b1947e2901371>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:17.918757
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:uaqatcamss.du.com.ae:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:18.404765
+To: <tel:+971526359581>
+Route: <sip:icscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5080;transport=TCP;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:18.457241
+To: <tel:+971526359581>
+Route: <sip:mtasauh01.ims.mnc003.mcc424.3gppnetwork.org:5070;TADSType=c-tads;InvokedRoles=MMTEL-AS_SCC_AS;lr;mode=terminating>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:18.696469
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=SVC2;bcos=03e451d874273ef136bb87e62bc5dcc5>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:41:18.700334
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:atcf@pcscfauh1-cfed.ims.mnc003.mcc424.3gppnetwork.org;x-fbi=prim-1;lr;x-alu-atcf>
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:42:10.180645
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:icscfdxb2.ims.mnc003.mcc424.3gppnetwork.org;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:42:10.222048
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:43:31.835053
+To: <sip:424030270292469@ims.mnc003.mcc424.3gppnetwork.org>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: REGISTER
+Timestamp: 2024-11-26 12:43:32.864815
+To: <sip:+971529925654@ims.du.ae>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:28.293743
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:originating@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5090;reg-id=TGX1732610612861001;lskpmc=STGX;lr;ms_rest_id=STG67458a33>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:28.296694
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr;mode=originating>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:28.825301
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=STGX;bcos=47c99d7f02510c4fb509cbd4608d9b31>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:28.831114
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:auhatcamss.du.com.ae:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:29.398372
+To: <tel:+971526359581>
+Route: <sip:icscfdxb1.ims.du.ae:5080;transport=TCP;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:29.452049
+To: <tel:+971526359581>
+Route: <sip:scscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5090;lskpmc=svc2;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:29.460260
+To: <tel:+971526359581>
+Route: <sip:mtasauh01.ims.mnc003.mcc424.3gppnetwork.org:5070;TADSType=c-tads;InvokedRoles=MMTEL-AS_SCC_AS;lr;mode=terminating>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:29.829540
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=SVC2;bcos=0f1123404bedc9f665b147d0a020790a>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:29.833378
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:atcf@pcscfauh1-cfed.ims.mnc003.mcc424.3gppnetwork.org;x-fbi=prim-1;lr;x-alu-atcf>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:53.047014
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:originating@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5090;reg-id=TGX1732610612861001;lskpmc=STGX;lr;ms_rest_id=STG67458a33>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:53.049262
+To: <tel:0559531525;phone-context=ims.mnc003.mcc424.3gppnetwork.org>
+To Header Parameters:
+  phone-context: ims.mnc003.mcc424.3gppnetwork.org>
+Route: <sip:mtasdxb02.ims.mnc003.mcc424.3gppnetwork.org:5060;lr;mode=originating>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:53.502372
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfdxb2.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=STGX;bcos=e8fc71be328dabdc726c29bbcb7115d7>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:53.506934
+To: <sip:+971559531525@ims.mnc003.mcc424.3gppnetwork.org;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:auhatcamss.du.com.ae:5060;lr>
+P-Access-Network-Info: IEEE-802.11n;i-wlan-node-id=98a9422fe270
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:53.878818
+To: <tel:+971526359581>
+Route: <sip:icscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5080;transport=TCP;lr>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:53.928359
+To: <tel:+971526359581>
+Route: <sip:mtasauh01.ims.mnc003.mcc424.3gppnetwork.org:5070;TADSType=c-tads;InvokedRoles=MMTEL-AS_SCC_AS;lr;mode=terminating>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:54.226125
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:isc@scscfauh1.ims.mnc003.mcc424.3gppnetwork.org:5092;lr;lskpmc=SVC2;bcos=d77ef3685894906b8ae6a1f16a62ba92>
+--------------------------------------------------
+
+Message Type: INVITE
+Timestamp: 2024-11-26 12:44:54.230420
+To: <sip:+971526359581@ims.du.ae;user=phone>
+To Header Parameters:
+  user: phone>
+Route: <sip:atcf@pcscfauh1-cfed.ims.mnc003.mcc424.3gppnetwork.org;x-fbi=prim-1;lr;x-alu-atcf>
+--------------------------------------------------
